@@ -1,6 +1,7 @@
 # 百人计划-图形篇
 
-Personal notes for the course
+Personal notes for the course  
+个人笔记
 
 The folders named by lesson names contain images assets, and have to be placed in the root directory in order to make the images visible.
 
